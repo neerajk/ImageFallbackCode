@@ -1,4 +1,4 @@
-// Use below code to render fallback image when src url is invalid.
+Use below code to render fallback image when src url is invalid.
 ========================================================================
 
 <img 
